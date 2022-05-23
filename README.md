@@ -58,5 +58,5 @@ Setting up DBT with the Postgres Adapter
         ```
     - Push your commits to Github
         ```
-        git push origin main
+        git push -u origin main
         ```
