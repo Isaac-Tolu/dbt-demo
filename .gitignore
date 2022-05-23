@@ -1,0 +1,5 @@
+# Virtual Environment
+dbt-test-venv
+
+# DBT logs
+logs
